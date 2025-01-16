@@ -310,3 +310,6 @@ REST_FRAMEWORK = {
         'rest_framework.renderers.JSONRenderer',
     )
 }
+
+
+ALLOWED_HOSTS = ['noto-backend-4opl.onrender.com', 'localhost', '127.0.0.1']
